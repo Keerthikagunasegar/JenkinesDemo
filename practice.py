@@ -2,7 +2,7 @@ name = "Abhi"
 age = 21
 place = "Bangalore"
 gender = "Female"
-occupation = "student"
+occupatio = "student"
 
 print("My name is", name)
 print("My age is", age)
